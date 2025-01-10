@@ -83,7 +83,6 @@ hide_streamlit_styles = """
 st.markdown(hide_streamlit_styles, unsafe_allow_html=True)
 
 
-
 st.markdown(
     """
     <script>
